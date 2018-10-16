@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0adfdf9e74e17364da263d4a264a6e55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - effect: {instanceID: 0}
+  - effectSmaller: {instanceID: 0}
+  - sceneManager: {instanceID: 0}
+  - circleTimeUp: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
